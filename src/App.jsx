@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Primerera modificacion</h1>
+        <p>segunda modificacion</p>
       </div>
     </>
   )
